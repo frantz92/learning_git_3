@@ -11,7 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.26.7",
+    "html-validate": "^2.9.0"
   },
   "dependencies": {
     "npm": "^6.13.6"
